@@ -12,7 +12,7 @@
 
 ## 🏢 Work Experience
 
-### **QR PAY, Oslo**  
+### **QR Pay, Oslo**  
 *IT Manager - Cloud Architect (2024–Present)*  
 - Defined product vision and architecture for scalable payment solutions.  
 - Managed project timelines, collaborating with leadership and engineering teams.  
