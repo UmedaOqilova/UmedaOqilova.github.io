@@ -1,6 +1,4 @@
-# Umeda Oqilova
-
-**Cloud Architect | Cloud Consultant | IT Manager**  
+#  Cloud Consultant 
 
 ---
 
